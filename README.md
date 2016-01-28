@@ -171,4 +171,4 @@ Many of these methods have very specific uses and in general, you won't need to 
 
 In the next reading we're going to discuss some of these 150 methods that you see and how you can apply them in your code.
 
-<a href='https://learn.co/lessons/reading-ios-using-methods' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/reading-ios-using-methods' title='Using Methods'>Using Methods</a> on Learn.co and start learning to code for free.</p>
