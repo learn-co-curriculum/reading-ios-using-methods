@@ -123,7 +123,7 @@ This can be either a new variable which you are declaring, or an existing one wh
 ReturnType *captureVariable = [recipientObject methodNameArgument:argumentVariable];
 ```
 
-Capturing the return of a calling the `uppercaseString` method on our `welcome` string into a new `NSString` variable called `alteredString` would like this:
+Capturing the return of calling the `uppercaseString` method on our `welcome` string into a new `NSString` variable called `alteredString` would like this:
 
 ```objc
 NSString *welcome = @"Welcome to the Flatiron School!";
@@ -172,3 +172,5 @@ Many of these methods have very specific uses and in general, you won't need to 
 In the next reading we're going to discuss some of these 150 methods that you see and how you can apply them in your code.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/reading-ios-using-methods' title='Using Methods'>Using Methods</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/reading-ios-using-methods'>Calling Methods</a> on Learn.co and start learning to code for free.</p>
